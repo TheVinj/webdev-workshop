@@ -11,7 +11,10 @@ function update_question_text(question) {
     // TBD update the text of the question
 }
 
-function clicks_any_answer_button(){
+function on_clue_image_gif_Load() {
+    update_the_clue_image_with_gif();
+} 
+
     // TBD Next steps
 }
 
