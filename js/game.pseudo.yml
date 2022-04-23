@@ -7,7 +7,7 @@
     - check if the answer is correct and trigger "answer is correct" or "answer is wrong" event appropriately
 
 - When answer is correct:
-    - do something
+    - show thumbs up
     
 - When answer is wrong:
-    - do something
+    - show thumbs down
