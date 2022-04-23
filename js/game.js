@@ -11,6 +11,10 @@ function update_question_text(question) {
     // TBD update the text of the question
 }
 
+function clicks_any_answer_button(){
+    // TBD Next steps
+}
+
 function update_answer_buttons_text(answer_options) {
     // TBD update the text of the 4 answer buttons
 }
